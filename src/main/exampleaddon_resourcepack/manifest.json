@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "GradleAddon",
+    "uuid": "3a8ddf15-4b69-350f-b532-20af8468e070",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "110d48b6-405b-3502-aee3-3bd3e03b8159",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "micha, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}
